@@ -1,4 +1,4 @@
-# ADM-HW4
+# ADM-HW1
 
 This repository contains two main files: `Scripts.ipynb` and `Scores.pdf`.
 
